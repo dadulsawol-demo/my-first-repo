@@ -10,3 +10,10 @@ This is my first GitHub Repository! I'm learning Version Control, Git, and GitHu
 
 ## Project Status
 Active - Currently learning Git and GitHub workflows
+
+## Skills I'm Learning
+- Git & GitHub fundamentals
+- Version control workflows
+- Branching and merging
+- Writing clear commit messages
+- VS Code and development tools
