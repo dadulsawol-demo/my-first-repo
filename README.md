@@ -17,3 +17,11 @@ Active - Currently learning Git and GitHub workflows
 - Branching and merging
 - Writing clear commit messages
 - VS Code and development tools
+
+## 🎯 Project Goals
+- Complete GitHub fundamentals course
+- Launch a personal portfolio website
+
+### Tools & Technologies to Master
+- Version Control: Git, GitHub, GitHub Actions
+- Development: VS Code, GitHub Copilot, debugging tools
