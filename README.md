@@ -25,3 +25,25 @@ Active - Currently learning Git and GitHub workflows
 ### Tools & Technologies to Master
 - Version Control: Git, GitHub, GitHub Actions
 - Development: VS Code, GitHub Copilot, debugging tools
+
+## How to Clone
+### Prerequisites
+Before you begin, ensure you have:
+- [Git](https://git-scm.com/) installed and configured on your computer
+- [VS Code](https://code.visualstudio.com/) or your preferred code editor
+- A [GitHub account](https://github.com/signup)
+
+### Clone the Repository
+1. Open your terminal
+2. Navigate to where you want to store the project
+3. Run the following command:
+```bash
+git clone https://github.com/yourusername/my-first-repo.git
+cd my-first-repo
+```
+
+### Open in VS Code
+In the same terminal, run the command:
+```bash
+code .
+```
