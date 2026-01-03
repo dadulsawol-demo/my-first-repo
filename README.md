@@ -47,3 +47,10 @@ In the same terminal, run the command:
 ```bash
 code .
 ```
+
+## 📫 Contact & Connect
+- **GitHub**: [@dadulsawol-demo](https://github.com/dadulsawol-demo)
+- **Email**: my.email@example.com
+- **Status**: Actively learning essential developer skills
+
+**⭐ If you found this helpful, consider giving it a star!**
